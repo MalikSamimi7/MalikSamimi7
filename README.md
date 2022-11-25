@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalikSamimi7
-- 👀 I’m interested in java programming
-- 🌱 I’m currently learning Mobile app development
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Full Stack development
 - 💞️ I’m looking to collaborate on Mobile App Development Community
 - 📫 reach me at Samimi.malik7@gmail.com
 
